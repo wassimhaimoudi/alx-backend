@@ -21,7 +21,7 @@ msgstr ""
 
 #: templates/3-index.html:7
 msgid "home_title"
-msgstr "Bienvenue chez Holberton"
+msgstr "Bienvenue chez ALX"
 
 #: templates/3-index.html:9 templates/5-index.html:9
 msgid "home_header"
